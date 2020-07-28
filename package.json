@@ -1,0 +1,18 @@
+{
+  "name": "woot",
+  "version": "1.0.0",
+  "description": "woot nice rain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "FileSync": "^1.0.1",
+    "discord.js": "^11.4.2",
+    "lowdb": "^1.0.0",
+    "performance-now": "^2.1.0",
+    "tsconfig": "^7.0.0"
+  }
+}
